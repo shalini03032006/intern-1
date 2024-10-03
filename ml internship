@@ -1,0 +1,1 @@
+To predict house prices based on square footage, number of bedrooms, and bathrooms, use scikit-learn's LinearRegression, fit the model with your data, and make predictions accordingly.
